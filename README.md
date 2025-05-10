@@ -1,1 +1,1 @@
-# lending-tracker
+# smart-lending-tracker
